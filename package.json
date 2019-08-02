@@ -1,0 +1,26 @@
+{
+  "name": "cinephile",
+  "version": "1.0.0",
+  "description": "Movie tracking prototype",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "easy-autocomplete": "^1.3.5",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "imdb-api": "^4.0.2",
+    "jquery": "^3.4.1",
+    "mongoose": "^5.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Movie",
+    "IMDB",
+    "Prototype"
+  ],
+  "author": "Omar Malas",
+  "license": "ISC"
+}
